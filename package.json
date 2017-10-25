@@ -1,0 +1,24 @@
+{
+  "name": "mnemonicjs",
+  "version": "1.0.0",
+  "description": "JavaScript port of the mnemonic encoder originally written in C by Oren Tirosh",
+  "author": {
+    "name": "Matt Brubeck",
+    "email": "mbrubeck@limpet.net"
+  },
+  "keywords": [
+    "mnemonic"
+  ],  
+  "license": "MIT",
+  "main": "mnemonic.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "homepage": "https://github.com/coast-team/mnemonic.js#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coast-team/mnemonic.js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/oster/mnemonic.js/issues"
+  }
+}
